@@ -1,6 +1,6 @@
 {
-    "name": "Pure Black (Deco)",
-    "description": "Midnight Theme, turned up to 11",
+    "name": "Song Bien",
+    "description": "Truong Gia Huy Dep Trai Vai Lon",
     "version": "1.7",
     "authors": [
         {
@@ -206,7 +206,7 @@
         "PLUM_24": "#000000"
     },
     "background": {
-      "url": "https://cdn.jsdelivr.net/gh/nguyenloc170557-eng/carti@main/331e434347abdb5d77c1f9a8cfd1947e.jpg",
+      "url": "https://raw.githubusercontent.com/nguyenloc170557-eng/mytheme/main/e67ca99833263e2a780c4f4182f8b98f.jpg",
       "blur": 0.5,
       "alpha": 0.25,
       "size": "cover",
