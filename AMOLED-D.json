@@ -208,7 +208,7 @@
     "background": {
       "url": "https://raw.githubusercontent.com/nguyenloc170557-eng/mytheme/main/e67ca99833263e2a780c4f4182f8b98f.jpg",
       "blur": 0.5,
-      "alpha": 0.1,
+      "alpha": 0.75,
       "size": "cover",
       "position": "center"
     },
