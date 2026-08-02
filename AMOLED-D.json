@@ -207,7 +207,7 @@
     },
     "background": {
       "url": "https://cdn.jsdelivr.net/gh/nguyenloc170557-eng/spidermanbkack@main/7e4eeed0-46a1-4ea2-aeef-9861fdd056b6.gif",
-      "blur": 0.5,
+      "blur": 0.35,
       "alpha": 0.25,
       "size": "cover",
       "position": "center"
