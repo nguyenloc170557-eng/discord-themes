@@ -1,4 +1,4 @@
-{
+w{
     "name": "Pure Black (Deco)",
     "description": "Midnight Theme, turned up to 11",
     "version": "1.7",
@@ -205,6 +205,13 @@
         "PLUM_23": "#000000",
         "PLUM_24": "#000000"
     },
+    "background": {
+  "url": "https://cdn.jsdelivr.net/gh/nguyenloc170557-eng/carti@main/331e434347abdb5d77c1f9a8cfd1947e.jpg",
+  "blur": 0.5,
+  "alpha": 0.25,
+  "size": "cover",
+  "position": "center"
+},
     "plus": {
     "version": "0",
     "iconpack": "deco",
