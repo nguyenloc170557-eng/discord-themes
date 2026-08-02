@@ -1,10 +1,10 @@
 {
-    "name": "Song Bien",
+    "name": "black suit (tobey)",
     "description": "Truong Gia Huy Dep Trai Vai Lon",
     "version": "1.7",
     "authors": [
         {
-            "name": "breadcat0314",
+            "name": "xcntwa",
             "id": "354957913187680257"
         }
     ],
@@ -206,7 +206,7 @@
         "PLUM_24": "#000000"
     },
     "background": {
-      "url": "https://raw.githubusercontent.com/nguyenloc170557-eng/mytheme/main/e67ca99833263e2a780c4f4182f8b98f.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/nguyenloc170557-eng/spidermanbkack@main/7e4eeed0-46a1-4ea2-aeef-9861fdd056b6.gif",
       "blur": 0.5,
       "alpha": 0.25,
       "size": "cover",
