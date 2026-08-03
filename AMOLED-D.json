@@ -206,11 +206,9 @@
         "PLUM_24": "#000000"
     },
     "background": {
-      "url": "https://cdn.jsdelivr.net/gh/nguyenloc170557-eng/spidermanbkack@main/7e4eeed0-46a1-4ea2-aeef-9861fdd056b6.gif",
-      "blur": 0.5,
-      "alpha": 0.25,
-      "size": "cover",
-      "position": "center"
+    "url": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Mythemesssss@main/w4hz1i.gif",
+    "alpha": 0.68,
+    "blur": 0.95
     },
     "plus": {
     "version": "0",
